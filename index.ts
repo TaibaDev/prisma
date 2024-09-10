@@ -10,5 +10,5 @@ async function main(){
     console.log(createUser)
 }
 
-console.log("Tayyab Sadiq code");
+console.log("updated code");
 // main().then(()=>{}).catch(()=>{});
